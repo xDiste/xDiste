@@ -3,7 +3,7 @@
 
 <h1 align=center>Hi there, welcome to my GitHub! :vulcan_salute:	</h1>
 
-<p align=center style="font-size: 16px">I'm Alex <b>Computer Scientist</b>, student at <a href="https://unige.it/it/">University of Genoa</a>, with a passion for <b>Software Engineering</b>, <b>Security</b> and <b>Artificial intelligence</b> <br><br> <i>Always Work in Progress...</i> </p>
+<p align=center style="font-size: 16px">I'm Alex a <b>Computer Scientist</b>, student at <a href="https://unige.it/it/">University of Genoa</a>, with a passion for <b>Software Engineering</b>, <b>Security</b> and <b>Artificial intelligence</b> <br><br> <i>Always Work in Progress...</i> </p>
 
 ## Programming Languages
 
