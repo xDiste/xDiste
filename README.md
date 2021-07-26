@@ -1,9 +1,9 @@
 <!--
 **xDiste/xDiste** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
-<h1>Welcome to my page</h1>
+<h1 align=center>Hi there, welcome to my GitHub!</h1>
 
-<p style="font-size: 16px">Hi, nice to see you here! </br> I'm Alex, <b>Computer Scientist</b> with a passion for <b>Software Engineering & Security</b> and <b>Artificial intelligence</b> </p>
+<p align=center style="font-size: 16px">I'm Alex <b>Computer Scientist</b>, student at <a href="https://unige.it/it/">University of Genoa</a>, with a passion for <b>Software Engineering</b>, <b>Security</b> and <b>Artificial intelligence</b> <br><br> <i>Always Work in Progress...</i> </p>
 
 ## Programming Languages
 
@@ -19,36 +19,41 @@
 [![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=for-the-badge&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23F7DF1E)](https://www.javascript.com/)
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
 
-
+[![LaTex](https://img.shields.io/badge/Latex-008080?style=for-the-badge&logo=latex&logoColor=ffffff)](https://www.latex-project.org/)
 
 ## Development Tools
 
 [![VS Code](https://img.shields.io/badge/-VSCode-007ACC?style=for-the-badge&logo=Visual-studio-code)](https://code.visualstudio.com/)
+![Vim](https://img.shields.io/badge/VIM-%2311AB00.svg?style=for-the-badge&logo=vim&logoColor=white)
+![Eclipse](https://img.shields.io/badge/Eclipse-FE7A16.svg?style=for-the-badge&logo=Eclipse&logoColor=white)
+![NetBeans IDE](https://img.shields.io/badge/NetBeansIDE-1B6AC6.svg?style=for-the-badge&logo=apache-netbeans-ide&logoColor=white)
+
+![Colab](https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=525252)
+[![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=Jupyter&logoColor=ffffff)](https://jupyter.org/)
+
+
 [![Git](https://img.shields.io/badge/-Git-%23F05032?style=for-the-badge&logo=git&logoColor=%23ffffff)](https://git-scm.com/)
 [![Docker](https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=ffffff)](https://www.docker.com/)
-[![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=Jupyter&logoColor=ffffff)](https://jupyter.org/)
-[![LaTex](https://img.shields.io/badge/Latex-008080?style=for-the-badge&logo=latex&logoColor=ffffff)](https://www.latex-project.org/)
 
 ## Frameworks and Library
 
 [![Tensorflow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=TensorFlow&logoColor=ffffff)](https://www.tensorflow.org/)
-[![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=Keras&logoColor=ffffff)](https://keras.io/)
+![SciPy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white)
 [![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=ffffff)](https://pandas.pydata.org/)
 [![Numpy](https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=ffffff)](https://numpy.org/)
 
-
-## Electronics 
-
-[![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=ffffff)](https://store.arduino.cc/arduino-uno-rev3)
-[![RaspberryPi](https://img.shields.io/badge/Raspberry%20Pi-C51A4A?style=for-the-badge&logo=Raspberry-pi&logoColor=ffffff)](https://www.raspberrypi.org/)
+![Qiskit](https://img.shields.io/badge/Qiskit-%236929C4.svg?style=for-the-badge&logo=Qiskit&logoColor=white)
 
 ## Operating System 
 
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Windows 10](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
 
 ## Where to find me
 
-<a href="https://github.com/CaptainMich" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> 
+<a href="https://github.com/xDiste" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> 
+<a href="https://www.instagram.com/alexander_diste/" target="_blank"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a> 
+
+
   
