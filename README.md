@@ -56,4 +56,5 @@
 <a href="https://www.instagram.com/alexander_diste/" target="_blank"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a> 
 
 
+![visitor badge](https://visitor-badge.glitch.me/badge?page_id=xDiste.visitor-badge)
   
