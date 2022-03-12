@@ -4,7 +4,7 @@
 <h1 align=center>Hi there, welcome to my GitHub! :vulcan_salute:	</h1>
 
 <p align=center style="font-size: 16px">I'm Alex a <b>Computer Scientist</b>, student at <a href="https://unige.it/it/">University of Genoa</a>, 
-Security enthusiast with a passion for <b>Artificial intelligence</b> <br><br> <i>Always Work in Progress...</i> </p>
+  <b>Security enthusiast</b> with a passion for <b>Artificial intelligence</b> <br><br> <i>Always Work in Progress...</i> </p>
 
 ## Where to find me
 
