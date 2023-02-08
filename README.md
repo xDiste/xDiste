@@ -11,6 +11,6 @@
 <table align="center">
   <tr>
     <td width="50%"><img src="https://api.githubtrends.io/user/svg/xDiste/langs?time_range=one_year&use_percent=True&include_private=True&compact=True&theme=dark"></td>
-    <td width= "50%"><img src="https://github-readme-stats.vercel.app/api?username=xDiste&hide=prs,issues&count_private=true&show_icons=true&theme=dark"></td>
+    <td width="50%"><img src="https://github-readme-stats.vercel.app/api?username=xDiste&hide=prs,issues&count_private=true&show_icons=true&theme=dark"></td>
   </tr>
 </table>
